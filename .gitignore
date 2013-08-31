@@ -5,3 +5,6 @@ collisions.csv.gz
 
 # Images for various apps, starting with Office.ipynb
 img
+
+# Store private keys in secret files
+secret*
