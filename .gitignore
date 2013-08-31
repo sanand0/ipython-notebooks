@@ -1,2 +1,7 @@
+*.pyc
+
 # This is downloaded by NYPD-Crash.ipynb
 collisions.csv.gz
+
+# Images for various apps, starting with Office.ipynb
+img
