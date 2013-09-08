@@ -8,3 +8,6 @@ img
 
 # Store private keys in secret files
 secret*
+
+# IPython 1.0 creates intermediate checkpoints
+.ipynb_checkpoints
