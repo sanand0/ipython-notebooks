@@ -11,3 +11,6 @@ secret*
 
 # IPython 1.0 creates intermediate checkpoints
 .ipynb_checkpoints
+
+# Ignore sample data files created
+sample.data*
