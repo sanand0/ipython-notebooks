@@ -14,3 +14,6 @@ secret*
 
 # Ignore sample data files created
 sample.data*
+
+# Text-analysis.ipynb uses tweets.json.gz
+tweets.json.gz
