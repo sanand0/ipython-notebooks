@@ -5,5 +5,6 @@ A collection of iPython notebooks. Most are work in progress. Here are some that
 - [Marks](http://nbviewer.ipython.org/urls/raw.github.com/sanand0/ipython-notebooks/master/Marks.ipynb)
 - [NYPD Crash Data](http://nbviewer.ipython.org/urls/raw.github.com/sanand0/ipython-notebooks/master/NYPD-Crash.ipynb)
 - [Office: PowerPoint via Python](http://nbviewer.ipython.org/urls/raw.github.com/sanand0/ipython-notebooks/master/Office.ipynb)
+- [Text analysis](http://nbviewer.ipython.org/urls/raw.github.com/sanand0/ipython-notebooks/master/Text-analysis.ipynb)
 
-The quickest way to set these up is via [Anaconda](http://continuum.io/downloads.html). The downloads are ~300MB, though.
+The quickest way to set these up is via [Anaconda](http://continuum.io/downloads.html).
