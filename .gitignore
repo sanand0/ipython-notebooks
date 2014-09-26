@@ -13,10 +13,13 @@ secret*
 .ipynb_checkpoints
 
 # Ignore sample data files created
-sample.data*
+sample.*
 
 # Text-analysis.ipynb uses tweets.json.gz
 tweets.json.gz
 
 # IMDb.ipynb movie data
 *.list.gz
+
+# Any slideshows or HTML output created is ignored
+*.html
