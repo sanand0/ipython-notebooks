@@ -10,7 +10,7 @@ img
 secret*
 
 # IPython 1.0 creates intermediate checkpoints
-.ipynb_checkpoints
+.ipynb_checkpoints/
 
 # Ignore sample data files created
 sample.*
@@ -23,3 +23,6 @@ tweets.json.gz
 
 # Any slideshows or HTML output created is ignored
 *.html
+
+# Ignore the output of OpenAI Embeddings
+.openai-embeddings/
