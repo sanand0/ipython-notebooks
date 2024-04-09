@@ -26,3 +26,7 @@ tweets.json.gz
 
 # Ignore the output of OpenAI Embeddings
 .openai-embeddings/
+
+# Ignore generated embeddings files
+.embeddings.db
+.embeddings/
