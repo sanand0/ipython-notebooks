@@ -1,5 +1,6 @@
 A collection of iPython notebooks. Most are work in progress. Here are some that are reasonably complete.
 
+- [Claude - Random numbers}(claude-random-numbers.ipynb)
 - [Embeddings storage](embeddings-storage.ipynb)
 - [Embeddings similarity](embeddings-similarity.ipynb)
 - [Topic modeling naming](topic-modeling-naming.ipynb)
