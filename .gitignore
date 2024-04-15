@@ -30,3 +30,6 @@ tweets.json.gz
 # Ignore generated embeddings files
 .embeddings.db
 .embeddings/
+
+# Ignore VS Code settings
+.vscode/
