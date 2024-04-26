@@ -1,8 +1,8 @@
 A collection of iPython notebooks. Most are work in progress. Here are some that are reasonably complete.
 
 - [LLM - Random numbers](llm-random-numbers.ipynb)
-- [Embeddings storage](embeddings-storage.ipynb)
-- [Embeddings similarity](embeddings-similarity.ipynb)
+- [Embeddings storage](embedding-storage.ipynb)
+- [Embeddings similarity](embedding-similarity.ipynb)
 - [Topic modeling naming](topic-modeling-naming.ipynb)
 - [Benchmarks](Benchmarks.ipynb)
 - [Faster Data Processing in Python](Faster Data Processing in Python.ipynb)
