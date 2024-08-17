@@ -1,5 +1,6 @@
 A collection of iPython notebooks. Most are work in progress. Here are some that are reasonably complete.
 
+- [Outlook Mail de-duplication](outlook-mail-deduplication.ipynb)
 - [LLM - Random numbers](llm-random-numbers.ipynb)
 - [Embeddings storage](embedding-storage.ipynb)
 - [Embeddings similarity](embedding-similarity.ipynb)
