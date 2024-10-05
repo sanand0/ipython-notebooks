@@ -24,6 +24,10 @@ tweets.json.gz
 # Any slideshows or HTML output created is ignored
 *.html
 
+# Any datasets
+*.parquet
+*.xlsx
+
 # Ignore the output of OpenAI Embeddings
 .openai-embeddings/
 
