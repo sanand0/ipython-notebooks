@@ -1,10 +1,10 @@
 # /// script
 # requires-python = ">=3"
 # dependencies = [
-#     "pandas",
+#     "pandas==2.2.3",
 #     "pyarrow",
 #     "marimo",
-#     "requests",
+#     "requests==2.32.3",
 #     "openpyxl",
 # ]
 # ///
@@ -25,11 +25,21 @@ def __(mo):
 
         Get `darwinbox.parquet` via:
 
-        ```
+        ```bash
         rsync -avzP ubuntu@gramener.com:/mnt/gramener/apps/learn.gramener.com.v1/people/darwinbox.parquet
         ```
 
-        Then run this notebook. It will create an `llmfoundry-metrics.xlsx` that lists the
+        Then run this notebook.
+
+        ```bash
+        uvx marimo edit llmfoundry_usage.py
+        ```
+
+        It will create an `llmfoundry-metrics.xlsx` with 3 columns:
+
+        - `direct_manager_email`: email ID of the manager
+        - `report_count`: number of direct + indirect reportees
+        - `llmfoundry_sum`: number of LLM Foundry users
         """
     )
     return
