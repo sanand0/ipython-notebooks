@@ -2,10 +2,12 @@ A collection of iPython notebooks. Most are work in progress. Here are some that
 
 - [Outlook Mail de-duplication](outlook-mail-deduplication.ipynb)
 - [LLM - Random numbers](llm-random-numbers.ipynb)
+- [Embedding speed](embedding-speed.ipynb)
 - [Embeddings storage](embedding-storage.ipynb)
 - [Embeddings similarity](embedding-similarity.ipynb)
 - [Topic modeling naming](topic-modeling-naming.ipynb)
 - [Benchmarks](Benchmarks.ipynb)
+- [Rank comparisons](rank-comparisons.ipynb)
 - [Faster Data Processing in Python](Faster Data Processing in Python.ipynb)
 - [Elections](Elections.ipynb)
 - [Employee Provident Fund data](EPF.ipynb)
